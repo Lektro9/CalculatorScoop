@@ -1,0 +1,2 @@
+# CalculatorScoop
+For learning Unittests :)
